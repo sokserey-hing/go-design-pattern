@@ -1,7 +1,7 @@
 package main
 
-// Deep copying is a process of copying an object and all of its child objects.
-// Prototype : A partially or fully initialized object that you copy (clone) and make use of.
+// Prototype : A partially or fully initialized object that you copy (clone) and make use of..
+// Copy method is a method that creates a new object and copies all the fields of the current object to the new object.
 
 import "fmt"
 
