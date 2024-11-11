@@ -1,5 +1,9 @@
 package main
 
+// EmailBuilder is a builder for constructing an email with specified parameters
+// such as sender, recipient, subject, and body.
+// Builder parameter is a function that takes a builder and returns a builder.
+
 import (
 	"fmt"
 	"strings"
